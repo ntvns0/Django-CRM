@@ -20,6 +20,6 @@ cursorObject = dataBase.cursor()
 # Create a database
 cursorObject.execute("CREATE DATABASE forstadb")
 
-print("All Done!")
+print("All Done! Super Job!")
 
 
